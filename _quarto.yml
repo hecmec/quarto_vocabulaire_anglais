@@ -1,0 +1,74 @@
+project:
+  type: website
+  output-dir: _site # this is the default
+  resources:
+    - "public/images/*"
+    # - "quizzes/**/*"
+
+website:
+  title: "Vocabulaire Anglais"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Vocabulaire
+        menu:
+          - text: Les dates
+            href: quizzes/apprendre-les-dates-en-anglais.qmd
+          - text: Les nombres
+            href: quizzes/apprendre-les-nombres-en-anglais.qmd
+          - text: Les couleurs
+            href: quizzes/apprendre-les-couleurs-en-anglais.qmd
+          - text: Les jours de la semaine
+            href: quizzes/apprendre-les-jours-de-la-semaine-en-anglais.qmd
+          - text: Les mois de l'année
+            href: quizzes/apprendre-les-mois-de-l-annee-en-anglais.qmd
+          - text: Se presenter
+            href: quizzes/apprendre-se-presenter-en-anglais.qmd
+          - text: Les parties du corps
+            href: quizzes/apprendre-les-parties-du-corps-en-anglais.qmd
+          - text: Les vetements
+            href: quizzes/apprendre-les-vetements-en-anglais.qmd
+          - text: Les fruits
+            href: quizzes/apprendre-les-fruits-en-anglais.qmd
+          - text: Les legumes
+            href: quizzes/apprendre-les-legumes-en-anglais.qmd
+          - text: Les animaux
+            href: quizzes/apprendre-les-animaux-en-anglais.qmd
+          - text: Les metiers
+            href: quizzes/apprendre-metiers-en-anglais.qmd
+          - text: Les sports
+            href: quizzes/apprendre-sports-en-anglais.qmd
+          - text: Les nombres
+            href: quizzes/apprendre-les-nombres-en-anglais.qmd
+          - text: Les couleurs
+            href: quizzes/apprendre-les-couleurs-en-anglais.qmd
+          - text: Les jours de la semaine
+            href: quizzes/apprendre-les-jours-de-la-semaine-en-anglais.qmd
+          - text: Les mois de l'année
+            href: quizzes/apprendre-les-mois-de-l-annee-en-anglais.qmd
+          - text: Se presenter
+            href: quizzes/apprendre-se-presenter-en-anglais.qmd
+          - text: Les parties du corps
+            href: quizzes/apprendre-les-parties-du-corps-en-anglais.qmd
+          - text: Les vetements
+            href: quizzes/apprendre-les-vetements-en-anglais.qmd
+          - text: Les fruits
+            href: quizzes/apprendre-les-fruits-en-anglais.qmd
+          - text: Les legumes
+            href: quizzes/apprendre-les-legumes-en-anglais.qmd
+          - text: Les animaux
+            href: quizzes/apprendre-les-animaux-en-anglais.qmd
+          - text: Les metiers
+            href: quizzes/apprendre-metiers-en-anglais.qmd
+          - text: Les sports
+            href: quizzes/apprendre-sports-en-anglais.qmd
+
+      - text: Nous
+        href: about.qmd
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true

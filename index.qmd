@@ -1,0 +1,16 @@
+---
+title: "Vocabulaire Anglais facile"
+---
+
+voici une list de nos quiz du vocabulaire anglais.
+
+---
+# https://quarto.org/docs/websites/website-listings.html#listing-contents
+listing:
+#  title: "Quizzes Vocabulaire Anglais"
+  contents: "quizzes/*.qmd"
+  type: grid
+  image-lazy-loading: true
+  image-placeholder: "/public/images/la_politesse_en_anglais.jpg"
+  # default, grid, table
+---
