@@ -55,27 +55,32 @@ eins zwei drei
 
 
 ### Les jours de la semaine anglais
-	Monday	lundi
-	Tuesday	mardi
-	Wednesday	mercredi
-	Thursday	jeudi
-	Friday	vendredi
-	Saturday	samedi
-	Sunday	dimanche
+| Anglais                    | Français                    |
+|----------------------------|-----------------------------|
+| Monday                     | lundi                       |
+| Tuesday                    | mardi                       |
+| Wednesday                  | mercredi                    |
+| Thursday                   | jeudi                       |
+| Friday                     | vendredi                    |
+| Saturday                   | samedi                      |
+| Sunday                     | dimanche                    |
+
 
 ### Les mois de l'année anglais
-	January	janvier
-	February	février
-	March	mars
-	April	avril
-	May	mai
-	June	juin
-	July	juillet
-	August	août
-	September	septembre
-	October	octobre
-	November	novembre
-	December	décembre
+| Anglais                    | Français                    |
+|----------------------------|-----------------------------|
+| January                    | janvier                     |
+| February                   | février                     |
+| March                      | mars                        |
+| April                      | avril                       |
+| May                        | mai                         |
+| June                       | juin                        |
+| July                       | juillet                     |
+| August                     | août                        |
+| September                  | septembre                   |
+| October                    | octobre                     |
+| November                   | novembre                    |
+| December                   | décembre                    |
 
 
 <br>

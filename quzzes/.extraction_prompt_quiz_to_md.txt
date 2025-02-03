@@ -1,0 +1,7 @@
+Extract the pair questionText (qst_elemets.quest) and answer (ansList item where is=true, ans) from the questList 
+and put them in a md table like this one:
+
+| Anglais | Français  |
+|-------- |--------   |
+| apple   | pomme     |
+
