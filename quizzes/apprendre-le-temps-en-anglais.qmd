@@ -2,13 +2,11 @@
 title: "Les dates en anglais"
 description: "Les expressions anglaises les plus courantes pour parler de la date et du temps."
 image: "/public/images/les_dates_en_anglais.jpg"
-include-in-header:
-  text: <script type="text/javascript" src="/public/wqz-helper.js"></script>
 ---
 
 ::: {layout="[30,70]"}
 
-![](/public/images/les_dates_en_anglais.jpg)
+![](/public/images/le_temps_en_anglais.jpg)
 
 In this lesson you're going to hit the ground running -- in the first five minutes you'll see a complete end to end example of training and using a model  <br />
 Bla bla bla slkfdjs flqsdf jslqkfj qslmdfkj qslmfj   <br />

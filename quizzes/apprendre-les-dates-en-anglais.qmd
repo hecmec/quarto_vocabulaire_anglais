@@ -90,8 +90,6 @@ eins zwei drei
 
 <a href="https://www.wunderquiz.com/fr/play/comprendre-la-date-en-anglais-partie-1" target="_blank">
   <img src="/public/images/WunderQuiz_Comprendre_la_date_en_Anglais_partie_1.png" alt="Comprendre la date en Anglais (partie 1)" width="100%" >
-</a>
-<a href="https://www.wunderquiz.com/fr/play/comprendre-la-date-en-anglais-partie-1" target="_blank">
   Comprendre la date en Anglais (partie 1)
 </a>
 
